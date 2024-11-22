@@ -1,0 +1,168 @@
+2024-03-25 18:09:02,211 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:02,211 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:02,211 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:02,211 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:02,211 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:09:02,212 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:09:03,501 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:03,501 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:03,501 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:03,501 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:03,502 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:03,502 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:03,502 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:03,502 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:03,502 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:09:03,502 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:09:03,502 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:09:03,502 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:09:04,485 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:04,485 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:04,485 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:04,486 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:04,486 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:04,486 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:09:04,486 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:04,486 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:04,486 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:04,486 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:04,486 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:04,486 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:09:04,486 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:09:04,486 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:09:04,486 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:09:04,487 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:09:04,487 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:09:04,487 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:10:26,096 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:10:26,096 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,096 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,096 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,096 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,097 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,097 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,097 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,097 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:10:26,097 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:10:26,097 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:14:52,552 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:14:52,552 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,552 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,552 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,552 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,552 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,553 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,553 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,553 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,553 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,553 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:14:52,553 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:14:52,553 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:15:22,680 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,680 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:15:22,681 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,681 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,681 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,681 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,681 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,681 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,682 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,682 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,682 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,682 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,682 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,682 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:15:22,683 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:15:22,683 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:15:22,683 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:15:22,683 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:15:22,683 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:15:22,683 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:15:22,684 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:15:22,684 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:15:22,684 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:15:22,684 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:15:22,684 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:15:22,684 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,807 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,808 - spam_application - INFO - created an instance of auxiliary_module.Auxiliary
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,810 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,811 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,813 - spam_application - INFO - calling auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
+2024-03-25 18:18:27,814 - spam_application - INFO - done with auxiliary_module.some_function()
